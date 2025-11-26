@@ -1,5 +1,7 @@
 ![](banner.png)
 
+# Hey, I'm Yatin Sharma Madduri 👋
+
 # 💫 About Me:
 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>Building scalable full-stack applications as an SDE Intern, working across modern frontend and backend technologies to deliver production-ready software.<br><br>👯 I’m looking to collaborate on<br>Full-stack or backend-focused projects, open-source contributions, and real-world applications using React, Node.js, TypeScript, PostgreSQL, Docker, and Kafka.<br><br>🤝 I’m looking for help with<br>Strengthening system design, backend architecture, and preparing for SDE-1 / Backend / Full-Stack Engineer roles, with a long-term goal of moving into AI & ML.<br><br>🌱 I’m currently learning<br>Advanced backend development, scalable system design, event-driven architectures, and gradually building foundations in AI & Machine Learning.<br><br>💬 Ask me about<br>Full-stack development, backend engineering, REST APIs, PostgreSQL, Docker, Git/GitHub workflows, and transitioning from ECE to software engineering.<br><br>⚡ Fun fact<br>When I’m not coding, I enjoy listening to music, working out to stay fit, watching anime, and practicing meditation to stay focused and balanced.
 
